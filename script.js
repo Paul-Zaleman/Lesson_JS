@@ -5,3 +5,5 @@ let deposit;
 let mission;
 let period;
 
+alert('Привет, мир!')
+console.log('Я обучаюсь JavaScript')
